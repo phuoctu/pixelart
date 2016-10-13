@@ -1,0 +1,3 @@
+rootProject.name = 'PixelArt'
+
+include ':app'
